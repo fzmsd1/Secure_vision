@@ -1,0 +1,8 @@
+ultralytics
+yolov8
+Flask
+flask_wtf
+werkzeug
+wtforms
+wtforms.validators
+opencv-python
