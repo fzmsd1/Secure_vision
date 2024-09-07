@@ -1,2 +1,2 @@
 # Secure_vision
-Computervision project for industial security 
+Computer vision project for industial security 
